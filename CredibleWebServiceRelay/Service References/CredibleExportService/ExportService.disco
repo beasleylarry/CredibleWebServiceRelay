@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://reportservices.crediblebh.com/reports/ExportService.asmx?wsdl" docRef="https://reportservices.crediblebh.com/reports/ExportService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://reportservices.crediblebh.com/reports/ExportService.asmx" xmlns:q1="https://www.crediblebh.com/" binding="q1:ExportServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://reportservices.crediblebh.com/reports/ExportService.asmx" xmlns:q2="https://www.crediblebh.com/" binding="q2:ExportServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
